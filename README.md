@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning on Data Analyst
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="max-width: 30px; width: 30px; min-width: 30px; height: 30px;" />
 
 
 <!--

@@ -7,6 +7,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexSlobodskoj&theme=default)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexSlobodskoj&theme=default)
+
+
+
 
 <!--
 **AlexSlobodskoj/AlexSlobodskoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning on Data Analyst
+Refined and improved 🤔 projects within the framework of training on Data Analytics in Yandex Practicum
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="max-width: 60px; width: 60px; min-width: 60px; height: 60px;" />
 

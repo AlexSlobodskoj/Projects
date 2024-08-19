@@ -1,4 +1,5 @@
 .DS_Store
+.gitignore
 Credit_Bank/.ipynb_checkpoints/credit_score-checkpoint.ipynb
 Yandex_Music/.ipynb_checkpoints/music_big_city-checkpoint.ipynb
 Real_estate/.ipynb_checkpoints/real-estate.ipynb

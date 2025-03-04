@@ -10,3 +10,5 @@
 | 4.   | [Анализ сервиса для чтения книг](https://github.com/AlexSlobodskoj/Projects/blob/main/Book_Service/book_service.ipynb) | Учебный проект. <br/>Обзор базы данных о книгах, издательствах, авторах, пользовательских обзорах и оценках | python, pandas, sqlalchemy, PostgreSQL |
 | 5.   | [Исследование рынка заведений общественного питания](https://github.com/AlexSlobodskoj/Projects/tree/main/Food_places_Moscow) | Учебный проект. <br/>Поиск интересных особенностей и презентация для инвесторов | python, pandas, numpy, folium, matplotlib, scipy, Tableau |
 | 6.   | [Инвестиционный портфель №1](https://invest-adviser.com/investments/portfolio1) | Описание и визуализация изменения стоимости | Tilda, HighCharts, Google Sheets, JavaScript |
+| 7.   | [Веб-аналитика для сайта](https://invest-adviser.com/investments/portfolio1) | Настройка для увеличения скорости работы и фильтрации некачественного трафика |Google TagManager, Google Analytics, JavaScript |
+

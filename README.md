@@ -12,4 +12,4 @@
 | 6.   | [Исследование рынка заведений общественного питания](https://github.com/AlexSlobodskoj/Projects/tree/main/Food_places_Moscow) | Учебный проект. <br/>Поиск интересных особенностей и презентация для инвесторов | python, pandas, numpy, folium, matplotlib, scipy, Tableau |
 | 7.   | [Инвестиционный портфель №1](https://invest-adviser.com/investments/portfolio1) | Описание и визуализация изменения стоимости | Tilda, HighCharts, Google Sheets, JavaScript |
 | 8.   | [Веб-аналитика](https://github.com/AlexSlobodskoj/Projects/tree/main/TagManager) | Настройки для увеличения скорости работы и фильтрации некачественного трафика |Google TagManager, Google Analytics, JavaScript |
-
+| 9.   | [Исследование TED-конференций](https://github.com/AlexSlobodskoj/Portfolio/tree/main/Tableau_TED_Conf) | Учебный проект. <br/>Визуализация истории выступлений |Tableau, DataLens |

@@ -1,6 +1,6 @@
 [Анализ оттока клиентов банка в HTML](https://alexslobodskoj.github.io/Portfolio/Bank_Churn/bank_churn.html)
 
-[Анализ оттока клиентов банка в Jupiter Notebook](https://github.com/AlexSlobodskoj/Portfolio/blob/main/Bank_Churn/bank_churn.ipynb)
+[Анализ оттока клиентов банка в Jupiter Notebook](https://alexslobodskoj.github.io/Portfolio/Bank_Churn/bank_churn.ipynb)
 
 [Презентация](https://alexslobodskoj.github.io/Portfolio/Bank_Churn/presentation_bank_churn.pdf)
 
